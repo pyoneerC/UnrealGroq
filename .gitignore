@@ -1,0 +1,11 @@
+
+/.vs
+/.idea
+/Config
+/Binaries
+/Intermediate
+/Plugins/Developer
+.vsconfig
+/Saved
+/Plugins/UnrealGroq/Intermediate
+/Plugins/UnrealGroq/Binaries
